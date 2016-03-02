@@ -8,3 +8,9 @@
  [Deep Recurrent Q-Learning for Partially Observable MDPs](http://arxiv.org/pdf/1507.06527v3.pdf) - DQN with LSTM
 
 [Optimizing RNN Performance](http://svail.github.io/rnn_perf/)
+
+[Visualizing Higher-Layer Features of a Deep Network] (http://www.iro.umontreal.ca/~lisa/publications2/index.php/publications/show/247)
+
+[Insight into training neural network](http://cs231n.github.io/neural-networks-3/) - among others: gradient descent methods
+
+[No	more	pesky	learning	rates](http://arxiv.org/pdf/1206.1106.pdf)
